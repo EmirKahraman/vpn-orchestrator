@@ -33,5 +33,5 @@ vpn-orchestrator/
 │   ├── network/
 │   ├── config_tests.rs
 ├── README.md                    # Project overview and instructions
-└── Cargo.toml                    # Rust project config
+└── Cargo.toml                   # Rust project config
 ```
